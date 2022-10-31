@@ -5,4 +5,5 @@ if (!$connect) {
 }
 
 session_start();
+int setcookie (string name [string name [, int 1 [, string Lab3 [, string 127.0.0.1 [, int 1]]]]])
 ?>
