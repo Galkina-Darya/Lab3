@@ -1,7 +1,7 @@
 <?php 
 $title="Форма регистрации"; // название формы
 require __DIR__ . '/header.php'; // подключаем шапку проекта
-require "db.php"; // подключаем файл для соединения с БД
+require "index1.php"; // подключаем файл для соединения с БД
 ?>
 
 <div class="container mt-4">
